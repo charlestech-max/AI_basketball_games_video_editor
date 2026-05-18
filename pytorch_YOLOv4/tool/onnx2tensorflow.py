@@ -26,4 +26,4 @@ if __name__ == '__main__':
         transform_to_tensorflow(onnxfile, tfpb_outfile)
     else:
         print('Please execute this script this way:\n')
-        print('  python onnx2tensorflow.py <onnxfile> <tfpboutfile>')
+        print('  python onnx2tensorflow.py <onnxfile> <tfpboutfile>')
