@@ -192,4 +192,4 @@ def create_aspect_ratio_groups(dataset, k=0):
     fbins = [0] + bins + [np.inf]
     print("Using {} as bins for aspect ratio quantization".format(fbins))
     print("Count of instances per bin: {}".format(counts))
-    return groups
+    return groups
