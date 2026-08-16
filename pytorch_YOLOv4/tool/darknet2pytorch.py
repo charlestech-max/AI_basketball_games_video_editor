@@ -511,4 +511,4 @@ class Darknet(nn.Module):
     #             pass
     #         else:
     #             print('unknown type %s' % (block['type']))
-    #     fp.close()
+    #     fp.close()

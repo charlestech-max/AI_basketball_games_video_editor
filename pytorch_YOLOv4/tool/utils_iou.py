@@ -201,4 +201,4 @@ def bboxes_diou(bboxes_a, bboxes_b, fmt='voc'):
 
 
 def bboxes_ciou(bboxes_a, bboxes_b, fmt='voc'):
-    return bboxes_iou(bboxes_a, bboxes_b, fmt, 'ciou')
+    return bboxes_iou(bboxes_a, bboxes_b, fmt, 'ciou')
