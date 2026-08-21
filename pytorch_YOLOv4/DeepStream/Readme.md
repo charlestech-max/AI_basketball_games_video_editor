@@ -6,4 +6,4 @@
 4. In the deepstream_app_config_yoloV4.txt, change 
           a) source0 : uri=file:<your file> directory. 
           b) primary-gie : model-engine-file=<your_onnx_engine>
-# Note that for multi-batch, overhead is large owing to NMS is not used.
+# Note that for multi-batch, overhead is large owing to NMS is not used.
